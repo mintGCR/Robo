@@ -1,0 +1,12 @@
+# Venv com as instalações
+.venv
+
+# Audio gerado
+*.wav
+
+# Do VS code
+.vscode/.db
+.vscode/.log
+
+# Arquivo de transcrição
+transcription.txt
